@@ -1,4 +1,4 @@
-# Excel & PowerBI
+# 📊 Excel & PowerBI
 
 > The folder of my work with Excel, VBA, and PowerBI for Data Analysis & Visualization.
 
