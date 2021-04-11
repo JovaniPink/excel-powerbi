@@ -1,6 +1,35 @@
-# 📊 Excel & PowerBI
+# 📊 Power BI
 
-> The folder of my work with Excel, VBA, and PowerBI for Data Analysis & Visualization.
+> The folder of my work with Excel, VBA, and PowerBI for Data Analysis & Visualization... mostly Power BI.
+
+## Links
+
+- [Power BI](https://powerbi.microsoft.com/en-us/)
+- [Microsoft Power BI Community Forums](https://community.powerbi.com/t5/Forums/ct-p/PBI_Comm_Forums)
+- [Awesome BI](https://github.com/NajiElKotob/Awesome-BI)
+- [Awesome Power BI!](https://github.com/Rulikkk/awesome-power-bi)
+
+### Docs
+
+- [Power BI documentation](https://docs.microsoft.com/en-us/power-bi/)
+- [Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/)
+- [Data Analysis Expressions (DAX) Reference](https://docs.microsoft.com/en-us/dax/)
+- [The DAX language - DAX Guide](https://dax.guide/)
+- [DAX Patterns](https://www.daxpatterns.com/)
+
+### Inspiration
+
+- [Data Stories Gallery](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery)
+
+### Support Links
+
+### Add On Tools
+
+- [DAX.do](https://dax.do/)
+- [DAX Studio](https://daxstudio.org/)
+- [Tabular Editor](https://www.sqlbi.com/tools/dax-formatter/)
+- [DAX Formatter](https://www.daxformatter.com/)
+- [Analyze in Excel for Power BI Desktop](https://www.sqlbi.com/tools/analyze-in-excel-for-power-bi-desktop/)
 
 ## 📝 Todo Checklist
 
