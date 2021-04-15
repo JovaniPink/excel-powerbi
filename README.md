@@ -6,6 +6,7 @@
 
 - [Power BI](https://powerbi.microsoft.com/en-us/)
 - [Microsoft Power BI Community Forums](https://community.powerbi.com/t5/Forums/ct-p/PBI_Comm_Forums)
+- [Reddit Power BI](https://www.reddit.com/r/PowerBI/)
 - [Awesome BI](https://github.com/NajiElKotob/Awesome-BI)
 - [Awesome Power BI!](https://github.com/Rulikkk/awesome-power-bi)
 
@@ -23,6 +24,11 @@
 
 ### Support Links
 
+https://www.sqlbi.com/articles/
+https://radacad.com/blog
+https://curbal.com/blog
+https://enterprisedna.co/
+
 ### Add On Tools
 
 - [DAX.do](https://dax.do/)
@@ -30,6 +36,7 @@
 - [Tabular Editor](https://www.sqlbi.com/tools/dax-formatter/)
 - [DAX Formatter](https://www.daxformatter.com/)
 - [Analyze in Excel for Power BI Desktop](https://www.sqlbi.com/tools/analyze-in-excel-for-power-bi-desktop/)
+- [Charticulator](https://charticulator.com/index.html)
 
 ## 📝 Todo Checklist
 
