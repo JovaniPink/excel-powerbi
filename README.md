@@ -6,6 +6,7 @@
 
 - [Power BI](https://powerbi.microsoft.com/en-us/)
 - [Microsoft Power BI Community Forums](https://community.powerbi.com/t5/Forums/ct-p/PBI_Comm_Forums)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/powerbi)
 - [Reddit Power BI](https://www.reddit.com/r/PowerBI/)
 - [Awesome BI](https://github.com/NajiElKotob/Awesome-BI)
 - [Awesome Power BI!](https://github.com/Rulikkk/awesome-power-bi)
